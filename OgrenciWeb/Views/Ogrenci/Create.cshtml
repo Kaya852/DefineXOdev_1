@@ -1,0 +1,30 @@
+﻿@using OgrenciYonetim
+@model Ogrenci
+
+<h2>Yeni Öğrenci Kaydı</h2>
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Adi"></label>
+        <input asp-for="Adi" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Soyadi"></label>
+        <input asp-for="Soyadi" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Bolum"></label>
+        <input asp-for="Bolum" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="No"></label>
+        <input asp-for="No" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

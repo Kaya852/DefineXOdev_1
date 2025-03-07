@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\bin\Debug\net8.0\OgrenciYonetim.deps.json
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\bin\Debug\net8.0\OgrenciYonetim.runtimeconfig.json
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\bin\Debug\net8.0\OgrenciYonetim.dll
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\bin\Debug\net8.0\OgrenciYonetim.pdb
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\obj\Debug\net8.0\OgrenciYonetim.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\obj\Debug\net8.0\OgrenciYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\obj\Debug\net8.0\OgrenciYonetim.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\obj\Debug\net8.0\OgrenciYonetim.AssemblyInfo.cs
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\obj\Debug\net8.0\OgrenciYonetim.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\obj\Debug\net8.0\OgrenciYonetim.dll
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\obj\Debug\net8.0\refint\OgrenciYonetim.dll
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\obj\Debug\net8.0\OgrenciYonetim.pdb
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\obj\Debug\net8.0\OgrenciYonetim.genruntimeconfig.cache
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\obj\Debug\net8.0\ref\OgrenciYonetim.dll
+C:\Users\HP\Desktop\DefinexOdevAttribute\StudentManagement\bin\Debug\net8.0\appsettings.json

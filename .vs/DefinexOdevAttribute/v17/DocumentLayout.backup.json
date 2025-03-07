@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\studentmanagement\\configuremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|solutionrelative:studentmanagement\\configuremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\studentmanagement\\sqliteveritabaniyardimcisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|solutionrelative:studentmanagement\\sqliteveritabaniyardimcisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\studentmanagement\\sqliteogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|solutionrelative:studentmanagement\\sqliteogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\studentmanagement\\xmlveritabaniyardimcisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|solutionrelative:studentmanagement\\xmlveritabaniyardimcisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\studentmanagement\\xmlogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|solutionrelative:studentmanagement\\xmlogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\studentmanagement\\ogrenciyonetim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|solutionrelative:studentmanagement\\ogrenciyonetim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\ogrenciweb\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|solutionrelative:ogrenciweb\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\ogrenciweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|solutionrelative:ogrenciweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\ogrenciweb\\views\\ogrenci\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|solutionrelative:ogrenciweb\\views\\ogrenci\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\ogrenciweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|solutionrelative:ogrenciweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\ogrenciweb\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|solutionrelative:ogrenciweb\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\ogrenciweb\\views\\sec.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|solutionrelative:ogrenciweb\\views\\sec.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\ogrenciweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|solutionrelative:ogrenciweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\ogrenciweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|solutionrelative:ogrenciweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\ogrenciweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|solutionrelative:ogrenciweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\ogrenciweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3014101-04AB-4AF4-9E30-0EDCBABC48BC}|OgrenciWeb\\OgrenciWeb.csproj|solutionrelative:ogrenciweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|c:\\users\\hp\\desktop\\definexodevattribute\\studentmanagement\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D883FC-7F9A-423F-9C7E-B3AF33EB334D}|StudentManagement\\OgrenciYonetim.csproj|solutionrelative:studentmanagement\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLiteOgrenci.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\SQLiteOgrenci.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\SQLiteOgrenci.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\SQLiteOgrenci.cs",
+              "RelativeToolTip": "StudentManagement\\SQLiteOgrenci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:12:51.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigureManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\ConfigureManager.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\ConfigureManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\ConfigureManager.cs",
+              "RelativeToolTip": "StudentManagement\\ConfigureManager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:03:14.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OgrenciYonetim",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\OgrenciYonetim.csproj",
+              "RelativeDocumentMoniker": "StudentManagement\\OgrenciYonetim.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\OgrenciYonetim.csproj",
+              "RelativeToolTip": "StudentManagement\\OgrenciYonetim.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T20:56:26.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XMLOgrenci.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\XMLOgrenci.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\XMLOgrenci.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\XMLOgrenci.cs",
+              "RelativeToolTip": "StudentManagement\\XMLOgrenci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:58:14.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\appsettings.json",
+              "RelativeToolTip": "StudentManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T20:56:49.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XmlVeritabaniYardimcisi.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\XmlVeritabaniYardimcisi.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\XmlVeritabaniYardimcisi.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\XmlVeritabaniYardimcisi.cs",
+              "RelativeToolTip": "StudentManagement\\XmlVeritabaniYardimcisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:56:12.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLiteVeritabaniYardimcisi.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\SQLiteVeritabaniYardimcisi.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\SQLiteVeritabaniYardimcisi.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\SQLiteVeritabaniYardimcisi.cs",
+              "RelativeToolTip": "StudentManagement\\SQLiteVeritabaniYardimcisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:55:18.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sec.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\Sec.cshtml",
+              "RelativeDocumentMoniker": "OgrenciWeb\\Views\\Sec.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\Sec.cshtml",
+              "RelativeToolTip": "OgrenciWeb\\Views\\Sec.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T21:23:34.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OgrenciWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OgrenciWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T20:52:51.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OgrenciWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OgrenciWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T20:52:47.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OgrenciWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "OgrenciWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T20:52:44.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "OgrenciWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "OgrenciWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T20:52:38.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OgrenciWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OgrenciWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T20:52:36.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Program.cs",
+              "RelativeDocumentMoniker": "OgrenciWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Program.cs",
+              "RelativeToolTip": "OgrenciWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:44:58.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\StudentManagement\\Ogrenci.cs",
+              "RelativeToolTip": "StudentManagement\\Ogrenci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:40:35.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\Ogrenci\\Create.cshtml",
+              "RelativeDocumentMoniker": "OgrenciWeb\\Views\\Ogrenci\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\Ogrenci\\Create.cshtml",
+              "RelativeToolTip": "OgrenciWeb\\Views\\Ogrenci\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T20:36:15.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeDocumentMoniker": "OgrenciWeb\\Views\\Ogrenci\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeToolTip": "OgrenciWeb\\Views\\Ogrenci\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T20:35:42.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "OgrenciWeb\\Controllers\\OgrenciController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DefinexOdevAttribute\\OgrenciWeb\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "OgrenciWeb\\Controllers\\OgrenciController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:33:57.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

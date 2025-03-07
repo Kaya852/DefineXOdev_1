@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DefineXOdev1Db>
+  <Students>
+    <Kayit>
+      <No>11111111</No>
+      <Adi>Burak</Adi>
+      <Soyadi>Kaya</Soyadi>
+      <Bolum>Ceng</Bolum>
+    </Kayit>
+    <Kayit>
+      <No>33333333</No>
+      <Adi>Murat</Adi>
+      <Soyadi>Kaya</Soyadi>
+      <Bolum>YBS</Bolum>
+    </Kayit>
+    <Kayit>
+      <No>55555555</No>
+      <Adi>Burak</Adi>
+      <Soyadi>Kaya</Soyadi>
+      <Bolum>213</Bolum>
+    </Kayit>
+  </Students>
+</DefineXOdev1Db>

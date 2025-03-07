@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Veri Kaynağını Seç";
+}
+
+<h2>Veri Kaynağını Seç</h2>
+
+<form method="post" asp-action="Sec">
+    <div class="form-group">
+        <label for="veriKaynagiSecimi">Veri Kaynağını Seçin:</label>
+        <select id="veriKaynagiSecimi" name="veriKaynagiSecimi" class="form-control">
+            <option value="SQLite">SQLite</option>
+            <option value="XML">XML</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>
